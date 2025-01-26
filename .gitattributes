@@ -1,0 +1,2 @@
+*.pth filter=lfs diff=lfs merge=lfs -text
+weight/RGB_Kinetics_16f.pth filter=lfs diff=lfs merge=lfs -text
